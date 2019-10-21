@@ -16,15 +16,15 @@ Utilizing Python Pandas library to clean original data source from Kaggle for [F
 
 Items to clean:
 
-Remove unnecessary columns
-Remove unwanted "-" cells
-Remove blank cells
-Remove NaN cells
-Reorganized Data Frames
-Combined Data Frames
-Reformate time format to "second"
-Create tidydatasets
-Export out cleaned data sets into csv files
+- Remove unnecessary columns
+- Remove unwanted "-" cells
+- Remove blank cells
+- Remove NaN cells
+- Reorganized Data Frames
+- Combined Data Frames
+- Reformate time format to "second"
+- Create tidydatasets
+- Export out cleaned data sets into csv files
 
 ## General statistics
 
