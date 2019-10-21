@@ -28,8 +28,8 @@ Items to clean:
 
 ## General statistics
 
-How many finsihers over the years?
-What the percentages of female runners?
-How about the age groups?
-How many different nationalisites are present?
-From which countries do the majority of the runners come from?
+- How many finsihers over the years?
+- What the percentages of female runners?
+- How about the age groups?
+- How many different nationalisites are present?
+- From which countries do the majority of the runners come from?
