@@ -11,4 +11,25 @@ Using mostly Python (and a little bit of R) to scrape the results from uitslagen
 
 This repo contains combined, cleaned and anonymized results of this marathon for 2009-2019. You can find out these results at [data/all_results.csv](data/all_results.csv) file.
 
-## Results visualization
+## Cleaning Original Source Data
+Utilizing Python Pandas library to clean original data source from Kaggle for [Finishers Rotterdam Marathon 2009 - 2019] 
+
+Items to clean:
+
+Remove unnecessary columns
+Remove unwanted "-" cells
+Remove blank cells
+Remove NaN cells
+Reorganized Data Frames
+Combined Data Frames
+Reformate time format to "second"
+Create tidydatasets
+Export out cleaned data sets into csv files
+
+## General statistics
+
+How many finsihers over the years?
+What the percentages of female runners?
+How about the age groups?
+How many different nationalisites are present?
+From which countries do the majority of the runners come from?
